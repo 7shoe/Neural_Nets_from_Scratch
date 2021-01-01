@@ -1,5 +1,5 @@
-# Neural_Nets_from_Scratch
-Implementation of various neural networks architectures in various coding languages following various programming paradigms.
+# Neural Networks from Scratch
+Numerous libraries in Python, R, and Go allow for the creation, training, and inference of neural networks. Most notably, TensorFlow and PyTorch. Unfortunately, much of the appreciation for numerical ingenuity and statistical intuition is lost when these tools are deployed off-the-shelf. Specifically, the easy-to-use, high-level interfaces of Keras (for TensorFlow) and PyTorch Lightning reduce the amount of written code drastically, at the expense of a user's brainpower to understand them. This tutorial aims to uncover fundamental principles by which these neural networks are implemented, is intended to restore and highlight the numerical costs of training and inference of such models. Implementation of various neural network architectures in various coding languages following various programming paradigms. 
 
 
 ## 1. A (Pseudo-)Functional Programming approach in Python for a Multilayer Perceptron
